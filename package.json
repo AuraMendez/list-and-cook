@@ -1,0 +1,23 @@
+{
+  "name": "list-n-cook",
+  "version": "1.0.0",
+  "description": "Decide what too cook and generate a shopping list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AuraMendez/list-n-cook.git"
+  },
+  "author": "Aura Mendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AuraMendez/list-n-cook/issues"
+  },
+  "homepage": "https://github.com/AuraMendez/list-n-cook#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
