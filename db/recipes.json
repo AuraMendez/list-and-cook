@@ -1,0 +1,453 @@
+{
+    "recipes": [
+        {
+            "id": "265dc998-6ffb-497f-83e8-470b1d59d796",
+            "name": "Potato Salad",
+            "author": "Aura Mendez",
+            "serves": "4",
+            "preptime": "30 minutes",
+            "ingredients": {
+                "main": [
+                    {
+                        "name": "potatoes",
+                        "unit": "g",
+                        "qty": 1000
+                    },
+                    {
+                        "name": "celery",
+                        "unit": "g",
+                        "qty": 200
+                    },
+                    {
+                        "name": "eggs",
+                        "unit": "piece(s)",
+                        "qty": 4
+                    },
+                    {
+                        "name": "spring onions",
+                        "unit": "piece(s)",
+                        "qty": 6
+                    }
+                ],
+                "dressing": [
+                    {
+                        "name": "apple vinegar",
+                        "unit": "ml",
+                        "qty": 80
+                    },
+                    {
+                        "name": "sunflower oil",
+                        "unit": "ml",
+                        "qty": 250
+                    },
+                    {
+                        "name": "dijon mustard",
+                        "unit": "spoonful(s)",
+                        "qty": 1
+                    },
+                    {
+                        "name": "black pepper",
+                        "unit": "to taste"
+                    },
+                    {
+                        "name": "salt",
+                        "unit": "to taste"
+                    }
+                ]
+            },
+            "steps": [
+                "Peel and boil the potatoes until soft.Boil the eggs until hard. Let them cool down.",
+                "In the meantime prepare the dressing: add all ingredients together and mix well.",
+                "Slice the potatoes, eggs, celery and spring onions.",
+                "Add all ingredients together on a large bowl. Add dressing and enjoy cold."
+            ],
+            "tags": [
+                "salad",
+                "vegetarian"
+            ]
+        },
+        {
+            "id": "e4926363-b4d1-477e-9425-a176d34ceefa",
+            "name": "Tuna Salad",
+            "author": "Aura Mendez",
+            "serves": "2",
+            "preptime": "20 minutes",
+            "ingredients": {
+                "main": [
+                    {
+                        "name": "canned tuna",
+                        "unit": "can(s)",
+                        "qty": 1
+                    },
+                    {
+                        "name": "celery",
+                        "unit": "g",
+                        "qty": 100
+                    },
+                    {
+                        "name": "tomatoes",
+                        "unit": "piece(s)",
+                        "qty": 2
+                    },
+                    {
+                        "name": "cucumber",
+                        "unit": "piece(s)",
+                        "qty": 0.5
+                    },
+                    {
+                        "name": "french mustard",
+                        "unit": "spoonful(s)",
+                        "qty": 3
+                    },
+                    {
+                        "name": "pickeld jalapenos",
+                        "unit": "ml",
+                        "qty": 250
+                    },
+                    {
+                        "name": "black pepper",
+                        "unit": "to taste"
+                    },
+                    {
+                        "name": "salt",
+                        "unit": "to taste"
+                    },
+                    {
+                        "name": "nacho chips",
+                        "unit": "bag(s)",
+                        "qty": 1
+                    }
+                ]
+            },
+            "steps": [
+                "Chop all vegetables into smal cubes and add mix them together with the canned tuna.",
+                "Add mustard, salt and pepper.",
+                "Eat accompanied with nacho chips."
+            ],
+            "tags": [
+                "salad",
+                "fish"
+            ]
+        },
+        {
+            "id": "784a090e-7c92-4629-9ddf-309e41703fcc",
+            "name": "Mediterranean Baked Sweet Potatoe",
+            "author": "Aura Mendez",
+            "serves": "4",
+            "prep-time": "15 minutes",
+            "cook-time": "30 minutes",
+            "ingredients": {
+                "main": [
+                    {
+                        "name": "canned chickpeas",
+                        "unit": "can(s)",
+                        "qty": 1
+                    },
+                    {
+                        "name": "olive oil",
+                        "unit": "teaspoon(s)",
+                        "qty": 1.5
+                    },
+                    {
+                        "name": "cumin",
+                        "unit": "teaspoon(s)",
+                        "qty": 0.5
+                    },
+                    {
+                        "name": "coriander",
+                        "unit": "teaspoon(s)",
+                        "qty": 0.5
+                    },
+                    {
+                        "name": "cinnamon",
+                        "unit": "teaspoon(s)",
+                        "qty": 0.5
+                    },
+                    {
+                        "name": "paprika",
+                        "unit": "teaspoon(s)",
+                        "qty": 0.5
+                    },
+                    {
+                        "name": "salt",
+                        "unit": "teaspoon(s)",
+                        "qty": 0.5
+                    },
+                    {
+                        "name": "sweet potatoes",
+                        "unit": "piece(s)",
+                        "qty": 4
+                    }
+                ],
+                "salad": [
+                    {
+                        "name": "cherry tomatoes",
+                        "unit": "cup(s)",
+                        "qty": 0.5
+                    },
+                    {
+                        "name": "chopped parsley",
+                        "unit": "cup(s)",
+                        "qty": 0.5
+                    },
+                    {
+                        "name": "lemon juice",
+                        "unit": "tablespoon(s)",
+                        "qty": 3
+                    }
+                ],
+                "sauce": [
+                    {
+                        "name": "tahini",
+                        "unit": "cup(s)",
+                        "qty": 0.25
+                    },
+                    {
+                        "name": "lemon juice",
+                        "unit": "tablespoon(s)",
+                        "qty": 2
+                    },
+                    {
+                        "name": "chopped fresh dill",
+                        "unit": "teaspoon(s)",
+                        "qty": 4
+                    },
+                    {
+                        "name": "minced garlic",
+                        "unit": "teaspoon(s)",
+                        "qty": 4
+                    },
+                    {
+                        "name": "salt",
+                        "unit": "teaspoon(s)",
+                        "qty": 0.5
+                    }
+                ]
+            },
+            "steps": [
+                "Preheat the oven to 400 degrees F and line two baking sheets with foil. In a medium bowl, toss the chickpeas with olive oil, spices, and salt until coated. Spread them in a single layer on one of the baking sheets. Rub each potato half with olive oil and place them face down on the other baking sheet. Put both pans in the oven and cook (tossing the chickpeas periodically) for 20­30 minutes. Remove the chickpeas when they're roasted and just crunchy (be careful not to overcook; this was about 20­25 minutes for me) and the potatoes when a knife will easily poke through a fat potato with no resistance.",
+                "While the chickpeas and potatoes are roasting, toss parsley, tomatoes, and lemon juice together in a medium bowl. Set this in the fridge to marinate.",
+                "In another medium bowl, whisk together all of your tahini sauce ingredients. Add water, whisking after each addition, until it is easily drizzled. My tahini was thick and this took quite a lot of water! Maybe 1/2 cup or even more! But start with a small amount and add a little at a time to find what works. Taste the sauce and adjust as needed to make sure it's tangy, herby, and savory. Stick it in the fridge until dinner is ready.",
+                "When the potatoes and chickpeas are ready, remove them from the oven. Place the potatoes on a serving platter and smoosh the insides down a bit with a spoon. Top with chickpeas, tahini sauce, and tomato salad. Serve immediately."
+            ],
+            "tags": [
+                "vegetarian",
+                "mediterranean",
+                "vegan"
+            ]
+        },
+        {
+            "id": "a62390ae-9fea-4c5f-b43a-461a0be41299",
+            "name": "Potato and leek soup",
+            "author": "Aura Mendez",
+            "serves": "4",
+            "preptime": "30 minutes",
+            "ingredients": {
+                "main": [
+                    {
+                        "name": "potatoes",
+                        "unit": "g",
+                        "qty": 500
+                    },
+                    {
+                        "name": "leek",
+                        "unit": "piece(s)",
+                        "qty": 1
+                    },
+                    {
+                        "name": "soy sauce",
+                        "unit": "piece(s)",
+                        "qty": 4
+                    }
+                ]
+            },
+            "steps": [
+                "Chop the leek and the potatoes in medium sized pieces",
+                "In a deep pot, fry the leek and the potatoes for 5 minutes",
+                "Add enough water to cover the potatoes and add the soy sauce",
+                "Cook on medium heat until the potatoes are soft"
+            ],
+            "tags": [
+                "soup",
+                "vegetarian",
+                "vegan"
+            ]
+        },
+        {
+            "id": "2b86a59a-cd00-4c70-916c-3a89494eea35",
+            "name": "Ratatouille",
+            "author": "Aura Mendez",
+            "serves": "4",
+            "preptime": "40 minutes",
+            "ingredients": {
+                "main": [
+                    {
+                        "name": "tomatoes",
+                        "unit": "g",
+                        "qty": 200
+                    },
+                    {
+                        "name": "eggplant",
+                        "unit": "g",
+                        "qty": 200
+                    },
+                    {
+                        "name": "green paprika",
+                        "unit": "g",
+                        "qty": 200
+                    },
+                    {
+                        "name": "zuccini",
+                        "unit": "g",
+                        "qty": 200
+                    },
+                    {
+                        "name": "garlic",
+                        "unit": "clove(s)",
+                        "qty": 2
+                    },
+                    {
+                        "name": "olive oil",
+                        "unit": "teaspoon(s)",
+                        "qty": 4
+                    },
+                    {
+                        "name": "bay leaves",
+                        "unit": "piece(s)",
+                        "qty": 2
+                    },
+                    {
+                        "name": "salt",
+                        "unit": "to taste"
+                    }
+                ]
+            },
+            "steps": [
+                "Finely chop the garlic and fry it with the olive oil for 3 minutes.",
+                "Chop the tomatoes, zucchini, eggplants, green paprikas and add them to the warm oil.",
+                "Add the salt and bay leaves. Lower the file and cover the pot. Let cook on low fire for 30 minutes",
+                "Enjoy as a main or as a side dish for rice or pasta."
+            ],
+            "tags": [
+                "mediterranean",
+                "vegetarian",
+                "vegan"
+            ]
+        },
+        {
+            "id": "e9bc8677-fc12-4a6d-b175-12d47360ce1c",
+            "name": "Tubers in the oven",
+            "author": "Aura Mendez",
+            "serves": "4",
+            "preptime": "40 minutes",
+            "ingredients": {
+                "main": [
+                    {
+                        "name": "potatoes",
+                        "unit": "g",
+                        "qty": 500
+                    },
+                    {
+                        "name": "sweet potatoes",
+                        "unit": "g",
+                        "qty": 500
+                    },
+                    {
+                        "name": "fennel",
+                        "unit": "piece(s)",
+                        "qty": 1
+                    },
+                    {
+                        "name": "onions",
+                        "unit": "piece(s)",
+                        "qty": 2
+                    },
+                    {
+                        "name": "creme fraiche",
+                        "unit": "ml",
+                        "qty": 150
+                    },
+                    {
+                        "name": "cheese",
+                        "unit": "g",
+                        "qty": 200
+                    },
+                    {
+                        "name": "salt",
+                        "unit": "to taste"
+                    },
+                    {
+                        "name": "pepper",
+                        "unit": "to taste"
+                    }
+                ]
+            },
+            "steps": [
+                "Preheat the oven. Cut the tubers in 2cm cubes. Cut the onions and the fennel in stripes",
+                "In an oven dish add some olive oil, the potatoes and the fennel. Bake until potatoes are almost done, mixing every 5 minutes to ensure they're evenly cooked. In the meantime, fry the onions in a pan until slightly brown.",
+                "Add the onions, creme fraiche, salt and peper to the oven dish and mis well. Cover it with cheese and put it back in the oven until cheese has melted completely (5-10 minutes)",
+                "Serve hot"
+            ],
+            "tags": [
+                "mediterranean",
+                "vegetarian"
+            ]
+        },
+        {
+            "id": "3206ac15-082d-4797-80fe-cad30ad1db3f",
+            "name": "Mexican-style lentil soup",
+            "author": "Aura Mendez",
+            "serves": "4",
+            "preptime": "30 minutes",
+            "ingredients": {
+                "main": [
+                    {
+                        "name": "green lentils",
+                        "unit": "g",
+                        "qty": 300
+                    },
+                    {
+                        "name": "tomatoes",
+                        "unit": "piece(s)",
+                        "qty": 2
+                    },
+                    {
+                        "name": "onions",
+                        "unit": "piece(s)",
+                        "qty": 1
+                    },
+                    {
+                        "name": "banana",
+                        "unit": "piece(s)",
+                        "qty": 2
+                    },
+                    {
+                        "name": "sunflower oil",
+                        "unit": "teaspoon(s)",
+                        "qty": 2
+                    },
+                    {
+                        "name": "salt",
+                        "unit": "to taste"
+                    },
+                    {
+                        "name": "pepper",
+                        "unit": "to taste"
+                    }
+                ]
+            },
+            "steps": [
+                "Preferably have the lentils soking in water since the night before.",
+                "Chop the tamatos and onion is very small cubes",
+                "In a deep pot, fry the onions until transparent and add the tomatoes. Fry the tomatos for 5 minutes",
+                "Add the lentils with their water (enough to cover the lentils), salt and peper. Cover the pot and cook in low fire until the lentils are soft. Periodically check the soup, and add more water if too much has evaporated.",
+                "Serve with pieces of banana."
+            ],
+            "tags": [
+                "soup",
+                "vegetarian",
+                "vegan"
+            ]
+        }
+    ]
+}
