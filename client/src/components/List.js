@@ -24,7 +24,7 @@ class List extends Component {
     }
 
     getRecipeById = (id) => {
-        const url = `http://localhost:8000/api/recipes/id/${id}`;
+        const url = `/api/recipes/id/${id}`;
         fetch(url)
             .then(res => res.json())
             .then(recipe => this.extractIngredients(recipe))

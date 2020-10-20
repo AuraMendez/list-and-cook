@@ -12,14 +12,14 @@ class Recipes extends Component {
     }
 
     getAllRecipes = () => {
-        fetch('http://localhost:8000/api/recipes/')
+        fetch('/api/recipes/')
             .then(res => res.json())
             .then(allRecipes => this.setState({ recipes: allRecipes }))
             .catch(err => console.log(err));
     }
 
     getRecipesByTag = (tag) => {
-        const url = `http://localhost:8000/api/recipes/tag/${tag}`
+        const url = `/api/recipes/tag/${tag}`
         fetch(url)
             .then(res => res.json())
             .then(allRecipes => this.setState({ recipes: allRecipes }))
