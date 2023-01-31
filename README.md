@@ -1,6 +1,8 @@
 # list-and-cook
 easy decisions - easy groceries
 
+Check out the [Live Demo](https://list-and-cook.onrender.com/)!
+
 ## < / salt > Hackday
 
 This app is for people like me, who struggle with deciding what to cook and planning your meals and groceries for the week.
