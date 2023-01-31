@@ -14,7 +14,7 @@ This app is for people like me, who struggle with deciding what to cook and plan
 
 Lesson learned: I tried to bite off more than I could chew and my app lacks some important features.
 
-Promise: i will fix this as soon as I can.
+What needs fixing:
 
 - click on a recipe to display it
 - delete buttons
